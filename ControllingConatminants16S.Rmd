@@ -10,7 +10,7 @@ output: html_document
 
 Increasingly there is interest in studying the microbiome from environments that contain few microbes (low microbial biomass). 16S rRNA gene sequencing allows researchers to study microbes from environments in a high throughput culture independent manner, but recent research has highlighted that this technique is prone to contaminants when applied to samples originating from low microbial biomass environments.
 
-We recently performed a study to understand the impact of decreasing microbial biomass on 16S rRNA gene sequencing experiments and evaluate the current computational strategies to control for contaminants (preprint available [here](https://www.biorxiv.org/content/10.1101/329854v1) ). 
+We recently performed a study to understand the impact of decreasing microbial biomass on 16S rRNA gene sequencing experiments and evaluate the current computational strategies to control for contaminants (article available here (https://msystems.asm.org/content/4/4/e00290-19)). 
 
 Here, we provide the compiled R Markdown document to reproduce the analysis presented in the manuscript, divided into 6 primary sections:
 
